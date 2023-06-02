@@ -9,7 +9,7 @@ Esse projeto faz parte da primeira aula de Lógica de Programação Alura
 | :rocket: URL         | https://github.com/nielalencar/jogoPongAlura
 | :fire: Desafio     | https://editor.p5js.org/DFLA/sketches/TNdvSyvQY
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
 ![](https://github.com/nielalencar/modelo-para-projetos-vitrine-dev/assets/129704411/d3a37277-ece7-4715-938b-6a4ba2759f66#vitrinedev)
 
 ## Meu primeiro contato com a linguagem de Programação JavaScript, com a linguagem de marcação HTML e com a linguagem de estilização CSS
@@ -25,4 +25,4 @@ E tudo foi aprendendo na prática como criar pastas de arquivos CSS, HTML e JS a
 
 ![](https://github.com/nielalencar/jogoPongAlura/assets/129704411/aeb49d95-42a6-4260-8b91-83ef8f341100)
 
-## Você pode verificar o jogo no :fire: Desafio clicando no link e também o códgo que foi utilizado clicando em :rocket:URL.
+Você pode verificar o jogo no :fire: Desafio clicando no link e também o códgo que foi utilizado clicando em :rocket:URL.
